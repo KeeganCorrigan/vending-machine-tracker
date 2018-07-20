@@ -8,12 +8,12 @@ Vending machines may be stocked with different snacks, and the same snack may be
 
 ### Stories
 
-```
+<!-- ```
 As a user
 When I visit a specific vending machine page
 I see the name of all of the snacks associated with that vending machine along with their price
-```
-
+``` -->
+<!--
 ```
 As a user
 When I visit a specific vending machine page
@@ -27,7 +27,7 @@ Snacks
 * Pop Rocks: $1.50
 * Flaming Hot Cheetos: $2.50
 Average Price: $2.50
-```
+``` -->
 
 ## Visiting a Snack Page
 
