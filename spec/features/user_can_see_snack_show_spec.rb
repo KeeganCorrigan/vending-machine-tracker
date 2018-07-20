@@ -57,12 +57,9 @@ describe "a user visits snack show" do
 
     visit snack_path(snack_1)
 
-    save_and_open_page
-
     expected_1 = machine_1.average_snack_price
 
     expected_2 = dons.average_snack_price
-
 
     expect(page).to have_content("Average price: $#{expected_1}")
     expect(page).to have_content("Average price: $#{expected_2}")

@@ -28,7 +28,7 @@ Snacks
 * Flaming Hot Cheetos: $2.50
 Average Price: $2.50
 ``` -->
-
+<!-- 
 ## Visiting a Snack Page
 
 ### Story
@@ -51,4 +51,4 @@ Price: $2.50
 Locations
 * Don's Mixed Drinks (3 kinds of snacks, average price of $2.50)
 * Turing Basement (2 kinds of snacks, average price of $3.00)
-```
+``` -->
